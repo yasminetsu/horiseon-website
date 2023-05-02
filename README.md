@@ -18,4 +18,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title!
 
+live demo link  https://yasminetsu.github.io/horiseon-website/
+
 ![screenshot](/assets/images/horiseon.png)
